@@ -2,7 +2,11 @@
 
 Lab programs for 2nd semester of BCA
 
-
+# To-do
+* Data Structure
+* Java
+		Part B
+				6, 7, 9, 10, 12
 
 ## License
 
